@@ -53,7 +53,7 @@ const AboutMeModal = ({ setIsOpen }) => {
                         </svg>
                         <div className="space-y-2 text-start">
                             <p className="text-lg font-medium leading-snug">Passtimes</p>
-                            <p className="leading-snug">My favourite passtimes are watching movies, anime, reeding books and playing video games. Sometimes , I love to hangout with friend and talk about critical thinking and philosophy.</p>
+                            <p className="leading-snug">My favourite passtimes are watching movies, Japanese anime, reeding books and playing video games. Sometimes I love to hangout with friends and talk about critical thinking and philosophy.</p>
                         </div>
                     </div>
                 </div>
